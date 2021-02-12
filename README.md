@@ -12,7 +12,7 @@ Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
 * Dmitry Maltsev - [bledkham](https://github.com/bledkham)
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+From template of Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
 
 ## Acknowledgments
 ...
